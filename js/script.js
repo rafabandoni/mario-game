@@ -31,5 +31,6 @@ const loop = setInterval(() => {
 }, 10);
 
 document.addEventListener('keydown', jump);
+document.addEventListener('click', jump);
 
 // desafios: contar pontos, colocar botao de reiniciar e game over, parar animação das nuvens
