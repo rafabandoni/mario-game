@@ -1,1 +1,2 @@
-# mario-game
+# Mario Game
+Mario jumping game, developed following an web development tutorial. The maing goal was to learn more about javascript and web development, some challenges are commented on js code waiting to be tackled.
